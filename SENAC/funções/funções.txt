@@ -1,0 +1,14 @@
+funções em c++: 
+	
+ - são usadas para criar pequenos pedaços de código
+ - main () é uma função
+ - recebe e retorna informações
+ - pode ser re/utilizada + de uma vez
+ - deve ter um objetivo único
+ - facilidade!!
+ - declaração: é declarado da mesma maneira que variaveis - ou não declara
+ - chamada: getch()
+ - implementação: realizado após o main() específica quando será executado a função
+ - void = não volta nada para o programa
+ - implementa após o main
+	

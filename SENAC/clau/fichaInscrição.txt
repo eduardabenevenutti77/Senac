@@ -1,0 +1,10 @@
+fichaInscrição(nrInscr,)
+curso(nrCurso,cargaHoraria,Valor,RG,CPF,escolaridade
+dadosPessoais(idDadosPessoais,nome,genero,identidade,orgao
+dtNasc,CPF,escolaridade,endereço,bairro,CEP,fone/cel,email,empresa,cargo
+cidade(cdCidade,nrHabitante)
+estado(cdUF,nrCidades)
+dadosProfiss(idEmpresa,CNPJ,CEP,email,fone,endereço,bairro,IM,IE
+conhecimento(cdConheci,ondeDescu)
+pagamento(nrPg,tipoPg)
+compromisso(idCompr,assinatura,dtAss)

@@ -1,0 +1,2 @@
+pergunte ao usuário se ele deseja ver as informações
+de um aluno. Peça o nome e mostre as informações.

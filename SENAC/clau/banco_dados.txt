@@ -1,0 +1,21 @@
+A. Nota fiscal n--1 Cliente
+	nota fiscal(#cod_fiscal,numero_identificacao,valor,nmEmpresa,&id_cliente)
+	cliente(#id_cliente,nome,cpf,endereco,telefone,email)
+
+B. País 1--n Estado
+	pais(#id_nomePais,pib,nr_populacao,densidade_demografica)
+	estado(#id_nomeEstado,uf,nmCidades,comprimento,&id_nomePais)
+
+C. Funcionario n--1 Cidade que nasceu
+	funcionario(#cod_func,nome,idade,endereco,telefone,nr_contatoParente,&id_cidade)
+	Cidade(#id_cidade,sigla,localizacao_estado)
+
+D. Filme n--1 Gênero
+	filme(#cd_filme,nome,duracao,classificacao_idade,&id_genero)
+	genero(#id_genero,trama)
+
+E. Propetário 1--n Automóvel
+	propetario(#id_dono,nome,cpf,telefone,cep)
+	automovel(#cd_carro,placa,modelo,marca,valor,batido?,&id_dono)
+
+	

@@ -1,0 +1,11 @@
+formaIngresso(
+curso
+habilitação
+turno(idTurno
+dataProva(idData
+formaPagamento(idFormPg
+horaProva(cdHora
+localProva(idLocal,
+nacionalidade(idNac
+aluno(idAluno,nome,nomeSocial?,bairro,necessidadeEspecial?,email,dtNasc,celular,telefone,genero,CPF,RG,CEP,endereço,presencial?,on-line?,desconto?
+cidade(idCidade

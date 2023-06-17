@@ -1,0 +1,3 @@
+oleo -------------- diasUsados
+150		        1
+*		      usuario
